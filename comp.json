@@ -1,4 +1,27 @@
 {
-  "anytime": ["Coffee is BAD for you, Ashley!  Try Water instead.", "Kat Kat, Kitty Kat, Kitty Kat Kay!", "Coffee sucks! It really, really sucks! Coffee sucks, it really, really sucks! Try water-ade."],
-  "evening": ["Freaks come out at night!", "Time to make some night moves!"]
+  "anytime": [
+    "An Apple a day keeps the Doctor at bay. But a cat in the hall keps the Pearl cornered.",
+    "Have you hugged an animal today?",
+    "The Outside judges. The Inside is always welcoming."
+  ],
+  "morning": [
+    "Eat breakfast, or you'll be miserable the rest of the day"
+  ],
+  "afternoon":[
+    "Go in the backyard, get some sun."
+  ],
+  "evening": [
+    "Freaks come out at night!",
+    "Time to make some night moves!",
+    "Have you brushed your teeth yet?"
+  ],
+  "rain": [
+    "Rain, rain; GO AWAY!"
+  ],
+  "showers": [
+    "Do April showers REALLY bring May flowers?"
+  ],
+  ".-10-13": [
+    "Day Test"
+  ]
 }
